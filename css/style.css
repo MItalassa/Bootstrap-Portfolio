@@ -14,10 +14,13 @@
     overflow:hidden;
     max-width: 300px;
     height: auto;
-    
-    
+    position: relative;
 }
-  
+ 
+.Horiseon {
+  max-height: 800px;
+  overflow: scroll;
+}
   /* Jumbotron copy */
   .jumboCopy {
     width: 70%;
@@ -30,6 +33,8 @@
 
   /*footer*/
   .footer {
-    text-align: center;
-    margin: auto;
+    justify-content: center;
+  }
+  .footer h3 {
+    padding-left: 20%;
   }
