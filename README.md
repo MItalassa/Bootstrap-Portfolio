@@ -1,12 +1,41 @@
 # Bootstrap-Portfolio
 
-Photos from:
-https://unsplash.com/it/foto/ciment-fissure-OG8L9s1bYKc?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
 
-https://unsplash.com/it/foto/ciment-fissure-OG8L9s1bYKc?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
-https://unsplash.com/it/foto/ciment-fissure-OG8L9s1bYKc?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
-https://unsplash.com/it/foto/un-aereo-che-sorvola-una-catena-montuosa-al-tramonto-VoT98D0xMxs?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+## Description
+
+ I created my personal portfolio webpage, so that I will be able to update the website with my new projectjs while creating them as I go through the Bootcamp.
+
+## Installation
+
+N/A
+
+## Detailed changes in the code
+
+-I have divided my page in 3 big section: a personal profile section to present myself, a "My works" section that will represent the portfolio in itself and a "Contact me" section with all my contacts;
+- the profile section includes a navbar (with link to go straight to my other section), a background photo and a photo with a short introductive paragraph;
+<img src="./images/Screenshot header.png">
+- the "My works" section has cards for each of the projects that I will add, wich will be a link to the full project page;
+<img src="./images/screenshot my works.png">
+- the "Contact me" section has my personal contacts and link to my github and linkedin profiles;
+<img src="./images/Screenshot footer.png">
+
+## Credits
+
+Website used as reference:
+https://icons.getbootstrap.com/
+https://getbootstrap.com/
+https://www.w3schools.com
+https://stackoverflow.com
+
+
+## License
+
+N/A
+
+---
+
+Photos from:
+
 https://unsplash.com/it/foto/tableau-abstrait-rouge-et-blanc-IdXJIxj6VfU?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
-https://unsplash.com/it/foto/un-primo-piano-di-una-duna-di-sabbia-nel-deserto-SUcsl2HpfbA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
-https://unsplash.com/it/foto/un-primo-piano-di-uno-pneumatico-3-HW0HEcVqI?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
 https://unsplash.com/it/foto/donna-in-camicia-a-maniche-lunghe-blu-utilizzando-macbook-pro-9yCYGgPe5Kg?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
