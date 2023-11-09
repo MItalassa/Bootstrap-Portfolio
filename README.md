@@ -9,10 +9,10 @@
 
 N/A
 
-## Detailed changes in the code
+## Detailed page description
 
 -I have divided my page in 3 big section: a personal profile section to present myself, a "My works" section that will represent the portfolio in itself and a "Contact me" section with all my contacts;
-- the profile section includes a navbar (with link to go straight to my other section), a background photo and a photo with a short introductive paragraph;
+- the profile section includes a navbar (with link to go straight to my other section), and a jumbotron with a background photo, a personal photo and a short introductive paragraph;
 <img src="./images/Screenshot header.png">
 - the "My works" section has cards for each of the projects that I will add, wich will be a link to the full project page;
 <img src="./images/screenshot my works.png">
