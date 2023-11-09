@@ -16,7 +16,12 @@
     height: auto;
     position: relative;
 }
- 
+
+h2{
+  font-weight: 700;
+  font-size:xx-large;
+  color: rgb(255, 8, 0);
+}
 .Horiseon {
   max-height: 800px;
   overflow: scroll;
