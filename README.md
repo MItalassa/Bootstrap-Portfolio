@@ -26,6 +26,7 @@ https://icons.getbootstrap.com/
 https://getbootstrap.com/
 https://www.w3schools.com
 https://stackoverflow.com
+https://bootstrapbrain.com/component/bootstrap-5-profile-skills-bar-section/
 
 
 ## License
